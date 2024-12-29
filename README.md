@@ -65,7 +65,7 @@ VoiceTuner는 **실시간 음정 체크**와 **맞춤형 AI 피드백**을 제�
 ### 정현민
 - Unreal Engine과 AI 서버 간 음성 및 텍스트 데이터 전송 파이프라인 구축
 - REST API 설계를 통해 모바일 및 PC에서 사용자 피드백 조회 기능 구현
-- React 기반 웹페이지 개발로 프로그램 외부에서도 피드백 확인 가능 ([프로젝트 보기](https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-FE))
+- React 기반 웹페이지 개발로 프로그램 외부에서도 피드백 확인 가능 ([프런트 프로젝트 보기](https://github.com/MTVS-VoiceTuner/VoiceTuner-BackEnd-FE))
 - YouTube Data API를 활용한 맞춤형 연습 영상 추천 기능 구현
 
 ---
